@@ -1,0 +1,13 @@
+.footer {
+  background-color: #323232;
+}
+footer p {
+  font-size: 10px;
+  margin-left: 1rem;
+}
+
+@media (min-width: 992px) {
+  footer {
+    margin-left: 300px;
+  }
+}

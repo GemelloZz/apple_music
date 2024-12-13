@@ -1,0 +1,9 @@
+.Navbar {
+  display: none;
+}
+
+@media (min-width: 992px) {
+  .Navbar {
+    display: block;
+  }
+}
