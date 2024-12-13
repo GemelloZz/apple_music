@@ -13,7 +13,7 @@ const TopPicks = () => {
           <h1 className="mt-4">Novità</h1>
           <p>NUOVA STAZIONE RADIO</p>
           <Col xs={12} md={6} lg={6}>
-            <h4>Rilassati , al resto ci pensiamo noi. Ascolta apple music chill</h4>
+            <h4>Ci pensiamo noi.Ascolta apple music chill</h4>
             <img src={img_1} alt="first_img" className="rounded-3 resize" />
           </Col>
           <Col xs={12} md={6} lg={6}>
